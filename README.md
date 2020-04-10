@@ -1,4 +1,4 @@
-# Titanic
+# Titanic case
 
 ![alt text](/image/titanic.PNG "")
 
